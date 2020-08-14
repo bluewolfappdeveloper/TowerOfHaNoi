@@ -1,0 +1,22 @@
+F:\tháp hà nội\thap ha noi\thap ha noi\bin\Release\thap ha noi.exe
+F:\tháp hà nội\thap ha noi\thap ha noi\bin\Release\thap ha noi.pdb
+F:\tháp hà nội\thap ha noi\thap ha noi\obj\Release\thap_ha_noi.Form1.resources
+F:\tháp hà nội\thap ha noi\thap ha noi\obj\Release\thap_ha_noi.chucmung1.resources
+F:\tháp hà nội\thap ha noi\thap ha noi\obj\Release\thap_ha_noi.chucmung2.resources
+F:\tháp hà nội\thap ha noi\thap ha noi\obj\Release\thap_ha_noi.chiuthua.resources
+F:\tháp hà nội\thap ha noi\thap ha noi\obj\Release\thap_ha_noi.Properties.Resources.resources
+F:\tháp hà nội\thap ha noi\thap ha noi\obj\Release\thap ha noi.csproj.GenerateResource.Cache
+F:\tháp hà nội\thap ha noi\thap ha noi\obj\Release\thap ha noi.exe
+F:\tháp hà nội\thap ha noi\thap ha noi\obj\Release\thap ha noi.pdb
+F:\tháp hà nội\thap ha noi\thap ha noi\obj\Release\thap ha noi.csprojResolveAssemblyReference.cache
+F:\Tiger\Program\Phan mem ung dung\tháp hà nội\thap ha noi\thap ha noi\obj\Release\thap ha noi.exe
+F:\Tiger\Program\Phan mem ung dung\tháp hà nội\thap ha noi\thap ha noi\obj\Release\thap ha noi.pdb
+F:\Tiger\Program\Phan mem ung dung\tháp hà nội\thap ha noi\thap ha noi\bin\Release\thap ha noi.exe
+F:\Tiger\Program\Phan mem ung dung\tháp hà nội\thap ha noi\thap ha noi\bin\Release\thap ha noi.pdb
+F:\Tiger\Program\Phan mem ung dung\tháp hà nội\thap ha noi\thap ha noi\obj\Release\thap ha noi.csprojResolveAssemblyReference.cache
+F:\Tiger\Program\Phan mem ung dung\tháp hà nội\thap ha noi\thap ha noi\obj\Release\thap_ha_noi.Form1.resources
+F:\Tiger\Program\Phan mem ung dung\tháp hà nội\thap ha noi\thap ha noi\obj\Release\thap_ha_noi.chucmung1.resources
+F:\Tiger\Program\Phan mem ung dung\tháp hà nội\thap ha noi\thap ha noi\obj\Release\thap_ha_noi.chucmung2.resources
+F:\Tiger\Program\Phan mem ung dung\tháp hà nội\thap ha noi\thap ha noi\obj\Release\thap_ha_noi.chiuthua.resources
+F:\Tiger\Program\Phan mem ung dung\tháp hà nội\thap ha noi\thap ha noi\obj\Release\thap_ha_noi.Properties.Resources.resources
+F:\Tiger\Program\Phan mem ung dung\tháp hà nội\thap ha noi\thap ha noi\obj\Release\thap ha noi.csproj.GenerateResource.Cache

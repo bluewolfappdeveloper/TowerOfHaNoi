@@ -1,0 +1,11 @@
+F:\tháp hà nội\thap ha noi\thap ha noi\bin\Debug\thap ha noi.exe
+F:\tháp hà nội\thap ha noi\thap ha noi\bin\Debug\thap ha noi.pdb
+F:\tháp hà nội\thap ha noi\thap ha noi\obj\Debug\thap ha noi.csprojResolveAssemblyReference.cache
+F:\tháp hà nội\thap ha noi\thap ha noi\obj\Debug\thap_ha_noi.Form1.resources
+F:\tháp hà nội\thap ha noi\thap ha noi\obj\Debug\thap_ha_noi.Properties.Resources.resources
+F:\tháp hà nội\thap ha noi\thap ha noi\obj\Debug\thap ha noi.csproj.GenerateResource.Cache
+F:\tháp hà nội\thap ha noi\thap ha noi\obj\Debug\thap ha noi.exe
+F:\tháp hà nội\thap ha noi\thap ha noi\obj\Debug\thap ha noi.pdb
+F:\tháp hà nội\thap ha noi\thap ha noi\obj\Debug\thap_ha_noi.chucmung1.resources
+F:\tháp hà nội\thap ha noi\thap ha noi\obj\Debug\thap_ha_noi.chucmung2.resources
+F:\tháp hà nội\thap ha noi\thap ha noi\obj\Debug\thap_ha_noi.chiuthua.resources
